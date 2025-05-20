@@ -1,0 +1,10 @@
+<mvc:View
+    controllerName="simpleui5starter.controller.App"
+    displayBlock="true"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+
+    <!-- Root control that holds navigation and views -->
+    <App id="app" />
+
+</mvc:View>

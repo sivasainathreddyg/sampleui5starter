@@ -1,0 +1,20 @@
+<mvc:View
+    controllerName="simpleui5starter.controller.App"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+>
+    <Page title="Welcome to SimpleUI5Starter">
+        <content>
+        <VBox >
+            <Text text="Hello, welcome to your first SAP UI5 app!" />
+            <Button
+                text="Click Me"
+                press="onPressButton"
+                type="Emphasized"
+                
+            />
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>

@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/mvc/Controller","sap/m/MessageToast"],function(e,t){"use strict";return e.extend("simpleui5starter.controller.App",{onPressButton:function(){t.show("Button clicked!")}})});
+//# sourceMappingURL=View1.controller.js.map
